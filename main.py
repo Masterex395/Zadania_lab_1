@@ -73,3 +73,27 @@
 # x=(log(5 + sin(8)**2))
 # a=pow(x,1/6)
 # print(a)
+
+# print(floor(3.55))
+
+# print(ceil(4.80))
+
+# # Zad 5
+# Imie='MATEUSZ'
+# print(Imie.capitalize())
+# Nazwisko='GRZEŚ'
+# print(Nazwisko.capitalize())
+
+# # Zad 6
+# piosenka = "la la la"
+# licz = piosenka.count("la")
+# print(licz)
+
+# # Zad 7
+# napis="Tam daleko"
+# print(napis[1])
+# print(napis[-1])
+
+# # Zad 8
+# podziel = piosenka.split(" ")
+# print(podziel)
